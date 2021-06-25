@@ -13,6 +13,8 @@
 ### You can contact me at:
 gopi.geetika@gmail.com
 
+Note: Recently moved my GitHub account and repos (Old Username : geetu98)
+
 
 <img align="left" alt="Geetika's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=geetu98&show_icons=true&hide_border=true" />
 
