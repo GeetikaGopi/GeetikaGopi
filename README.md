@@ -10,7 +10,7 @@
 - 💬 Ask me about Machine Learning, Networks, Cyber Security
 - ⚡ Fun fact: I love shopping and watching Gossip Girl
 
-### Talk with me, I am kinda awesome:
+### You can contact me at:
 gopi.geetika@gmail.com
 
 
