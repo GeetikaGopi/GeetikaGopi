@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="350" height="250" />
 
 
-## I'm a Risk Analyst, Developer, and Mentor!!
+## I'm a Risk Analyst at EY!!
 - 🔭 I’m currently working on creating security tools
 - 🌱 I’m currently learning python programming for Security
 - 👯 I’m looking to collaborate on Threat Intel Platforms
