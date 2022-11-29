@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on creating security tools
 - 🌱 I’m currently learning python programming for Security
 - 👯 I’m looking to collaborate on Threat Intel Platforms
-- 💬 Ask me about Machine Learning, Networks, Cyber Security
+- 💬 Ask me abou Networks and Cyber Security
 - ⚡ Fun fact: I love shopping and watching Gossip Girl
 
 ### You can contact me at:
